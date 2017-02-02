@@ -8,7 +8,7 @@
 //         Pass in the pointer to function to bubble_sort member function of SortingList class
 //         to implement sorting by first order and second order respectively
 //         use operator overloading of "<<" for the Country class to send the object of Country class directly to the standard output
-//Author: (your name)
+//Author: Kyle Shake
 
 #include <iostream>
 #include <fstream>
